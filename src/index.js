@@ -1,1 +1,4 @@
-alert('Hello webpack!');
+import {sayHello} from './greeting';
+
+sayHello();
+
