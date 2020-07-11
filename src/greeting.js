@@ -1,5 +1,5 @@
 function sayHello() {
-  alert('Greetings from webpack');
+  alert('Greetings from webpack!');
 }
 
 export {sayHello};
